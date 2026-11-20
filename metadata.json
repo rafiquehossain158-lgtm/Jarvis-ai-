@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Futuristic multilingual AI voice and text assistant for Android powered by Gemini via Firebase AI Logic, featuring local chat history, notes, reminders, alarms, device telemetry, and app launching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

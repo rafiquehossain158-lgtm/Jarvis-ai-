@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="reminder_channel_name">Jarvis Reminders</string>
+    <string name="reminder_channel_description">Scheduled alerts and reminders created by Jarvis AI</string>
+</resources>
